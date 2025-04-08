@@ -6,15 +6,6 @@
  
 # Azure Red Team Lab — Terraform & Ansible
 
-This project automates the deployment of a security-focused lab environment in **Microsoft Azure**, using **Terraform** and optionally **Ansible**, to simulate red team scenarios and offensive infrastructure operations.
-
-##Project Goals
-
-- Learn and demonstrate **infrastructure-as-code (IaC)** in cloud environments
-- Automate the provisioning of **Kali Linux VMs** for security testing and tool deployment
-- Integrate tooling like **Havoc C2** into disposable and repeatable environments
-- Apply **OPSEC-conscious** deployment techniques for red team infrastructure
-
 ##Tech Stack
 
 - [Terraform](https://www.terraform.io/) — Infrastructure provisioning
